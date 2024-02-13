@@ -1,1 +1,2 @@
 first file to test for git-add and git -commit commands
+using git status -s - for short status
