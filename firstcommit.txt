@@ -1,3 +1,4 @@
 first file to test for git-add and git -commit commands
 using git status -s - for short status
 let us run git diff command
+added a line - for demonstrating that a file can be in staged and modified stages
