@@ -1,2 +1,3 @@
 adding line to test --staged/--cached attribute
 line before this was added - I adding this line to keep this file in modified stage
+This is first change in first-branch
