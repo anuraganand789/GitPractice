@@ -2,3 +2,5 @@ adding line to test --staged/--cached attribute
 line before this was added - first-I adding this line to keep this file in modified stage
 This is first change in first-branch
 This is first change in second-branch
+testing commit --amend - added a line for that
+testing commit --amend - added a line for that -- this line was committed - now made change for commit --ammend
