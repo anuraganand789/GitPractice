@@ -4,3 +4,4 @@ This is first change in first-branch
 This is first change in second-branch
 testing commit --amend - added a line for that
 testing commit --amend - added a line for that -- this line was committed - now made change for commit --ammend
+some commit
